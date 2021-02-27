@@ -4,7 +4,7 @@ public class Persona {
 	//Atributo
 	String nombre;
 	int edad;
-	//Constructor
+	//Por modificar el Constructor
 	public Persona(String nom, int ed) {
 		this.nombre = nom;
 		this.edad = ed;
