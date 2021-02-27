@@ -1,6 +1,6 @@
 package Encapsulamiento;
-
-
+//
+//
 public class Alumno {
 	
 	//Atributos
