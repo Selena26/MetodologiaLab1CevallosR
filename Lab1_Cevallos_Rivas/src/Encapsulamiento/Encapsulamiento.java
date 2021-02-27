@@ -1,6 +1,6 @@
 package Encapsulamiento;
 
-
+//
 public class Encapsulamiento {
 
 	public static void main(String[] args) {
@@ -18,11 +18,11 @@ public class Encapsulamiento {
 		
 		//Datos para Alumno 2
 		System.out.println("--------");
-		alu2.setNoControl(12345);
-		alu2.nombre = "Selena";
-		alu2.apellido = "Rivas";
-		alu2.setEmail("servas@espe.edu.ec");
-		alu2.verDatos();
+		alu1.setNoControl(12345);
+		alu1.nombre = "Selena";
+		alu1.apellido = "Rivas";
+		alu1.setEmail("servas@espe.edu.ec");
+		alu1.verDatos();
 		
 
 	}
