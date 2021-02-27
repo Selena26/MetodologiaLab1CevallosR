@@ -10,6 +10,6 @@ public class Persona {
 		this.edad = ed;
 	}
 	public void verDatos() {
-		//
+		
 	}
 }
