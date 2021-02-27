@@ -1,5 +1,5 @@
 package Herencia;
-//
+
 public class Persona {
 	//Atributo
 	String nombre;

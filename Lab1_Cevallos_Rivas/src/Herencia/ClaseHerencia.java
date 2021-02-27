@@ -1,5 +1,5 @@
 package Herencia;
-//
+
 public class ClaseHerencia {
 
 	public static void main(String[] args) {
