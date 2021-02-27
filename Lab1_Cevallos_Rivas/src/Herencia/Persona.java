@@ -2,7 +2,7 @@ package Herencia;
 //
 public class Persona {
 	//Atributo
-	String nombre;
+	String nombre; 
 	int edad;
 	//Por modificar el Constructor
 	public Persona(String nom, int ed) {
